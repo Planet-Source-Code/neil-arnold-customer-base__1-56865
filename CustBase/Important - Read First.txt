@@ -1,0 +1,8 @@
+IMPORTANT NOTICE FOR PREVIOUS VERSION USERS:
+
+In the updated version of this program the database has been changed, a new table has been added. If you have used the previous version simply move the old database to the new version to keep your existing information. As the program starts up, it will check to see if the database needs updating, and if it does it will be updated for you.
+
+View the "Read Me" file for a full list of the program updates.
+
+Thank-you,
+Neil Arnold
